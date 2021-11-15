@@ -1,0 +1,11 @@
+C:\Users\echrk\source\repos\Week7\Problem2test\bin\Debug\Problem2test.exe.config
+C:\Users\echrk\source\repos\Week7\Problem2test\bin\Debug\Problem2test.exe
+C:\Users\echrk\source\repos\Week7\Problem2test\bin\Debug\Problem2test.pdb
+C:\Users\echrk\source\repos\Week7\Problem2test\bin\Debug\Problem2.dll
+C:\Users\echrk\source\repos\Week7\Problem2test\bin\Debug\Problem2.pdb
+C:\Users\echrk\source\repos\Week7\Problem2test\bin\Debug\Problem2.dll.config
+C:\Users\echrk\source\repos\Week7\Problem2test\obj\Debug\Problem2test.csprojAssemblyReference.cache
+C:\Users\echrk\source\repos\Week7\Problem2test\obj\Debug\Problem2test.csproj.CoreCompileInputs.cache
+C:\Users\echrk\source\repos\Week7\Problem2test\obj\Debug\Problem2test.csproj.CopyComplete
+C:\Users\echrk\source\repos\Week7\Problem2test\obj\Debug\Problem2test.exe
+C:\Users\echrk\source\repos\Week7\Problem2test\obj\Debug\Problem2test.pdb
